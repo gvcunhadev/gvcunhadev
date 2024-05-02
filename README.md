@@ -29,5 +29,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" /><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30"/>
 
-
+<div>
+<a href="https://github.com/VitoriaAlvim7">
+<img loading="lazy" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gvcunhadev&layout=compact&langs_count=7&theme=ambient_gradient"/> <img loading="lazy" height="110em" src="https://github-readme-stats.vercel.app/api?username=Gvcunhadev&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+</div>
 
