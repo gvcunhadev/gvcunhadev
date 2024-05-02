@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Spring Boot, Mockito + JUnit 5
 - ⚡ Fun fact: I'am Dentist
 
-## My tool box
+## My tool box 🧰🔧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" height="30" /> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" />  <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" height="30"/>  <img 
