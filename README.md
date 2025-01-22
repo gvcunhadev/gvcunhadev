@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about software engineering
 - 🏋️‍♀️ I'm Crossfitter
 - ⚡ Fun fact: I'am Dentist
-- 
+
 
 
 ### 🛠️ Hard Skills and Toolbox
