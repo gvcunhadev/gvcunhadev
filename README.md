@@ -2,7 +2,7 @@
 # Hello World 🦕🌎
 
 
-- 👩‍💻 Back-end developer at CEPEIN-FEMA
+- 👩‍💻 Trainee at CEPEIN-FEMA as a developer analyst
 - 📚 Study analysis and systems development at FEMA
 - 🌱 I’m currently learning about software engineering
 - 🏋️‍♀️ I'm Crossfitter
