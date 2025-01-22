@@ -1,11 +1,10 @@
 
 # Hello World 🦕🌎
-
-
 - 👩‍💻 Back-end developer at CEPEIN-FEMA
 - 📚 Study analysis and systems development at FEMA
 - 🌱 I’m currently learning about software engineering
 - ⚡ Fun fact: I'am Dentist
+
 
 ### 🛠️ Hard Skills and Toolbox
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" /> <img                                                                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50"/> <img 
