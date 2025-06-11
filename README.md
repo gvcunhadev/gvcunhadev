@@ -2,11 +2,10 @@
 # Hello World 🦕🌎
 
 
-- 👩‍💻 Trainee at CEPEIN-FEMA as a developer analyst
+- 👩‍💻 Trainee at CEPEIN-FEMA as a DevOps
 - 📚 Study analysis and systems development at FEMA
-- 🌱 I’m currently learning about software engineering
+- 🌱 I’m currently learning about Grafana
 - 🏋️‍♀️ I'm Crossfitter
-- ⚡ Fun fact: I'am Dentist
 
 
 
