@@ -2,9 +2,9 @@
 # Hello World 🦕🌎
 
 
-- 👩‍💻 Trainee at CEPEIN-FEMA as a DevOps
+- 👩‍💻 DevOps
 - 📚 Study analysis and systems development at FEMA
-- 🌱 I’m currently learning about Grafana
+- 🌱 I’m currently learning about Deployment Managements
 - 🏋️‍♀️ I'm Crossfitter
 
 
